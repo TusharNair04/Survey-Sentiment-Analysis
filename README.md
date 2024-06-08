@@ -7,7 +7,6 @@ This repository contains a Jupyter Notebook that performs sentiment analysis on 
 
 - Text preprocessing
 - TF-IDF Vectorization
-- Dimensionality Reduction using Truncated SVD
 - Clustering using KMeans
 - Sentiment Analysis with a pre-trained model
 - Topic Modeling using LDA
